@@ -1,5 +1,5 @@
 git clone - Clones a copy of repository to our computer
-touch  -  creates a new file
+touch  -  `creates` a new file
 git add - prepare for commit
 git status - shows what changes have been made
 git commit -m " " - commit changes to repository
